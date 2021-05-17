@@ -1,2 +1,2 @@
-# sg-snippets
-Snippets for SG's email newsletter template.
+# W8 newsletter snippets
+Snippets for the WardEight NB email newsletter template.
